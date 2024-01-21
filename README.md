@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-InforBarget/InforBarget is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/antho81"><img src="https://api.daily.dev/devcards/3408f87d5e3141e8b593c98499284e38.png?r=4lh" width="400" alt="Antho Barget's Dev Card"/></a>
